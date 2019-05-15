@@ -8,4 +8,6 @@
 
 [Ketsji Game Engine](https://github.com/bge-community/Ketsji-Game-Engine)
 
-[Panda](https://github.com/panda3d)
+[Panda](https://github.com/panda3d)--[BlenderPanda](https://github.com/Moguri/BlenderPanda)
+
+[Game development kit for blender](https://github.com/ChevalFugace/BlenderGame-SDK)
