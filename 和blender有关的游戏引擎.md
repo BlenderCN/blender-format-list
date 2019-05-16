@@ -11,3 +11,5 @@
 [Panda](https://github.com/panda3d)--[BlenderPanda](https://github.com/Moguri/BlenderPanda)
 
 [Game development kit for blender](https://github.com/ChevalFugace/BlenderGame-SDK)
+
+[UrchinEngine---Game engine library: 3D, Physics, Sound, Network, IA, Map Editor](https://github.com/petitg1987/UrchinEngine)
